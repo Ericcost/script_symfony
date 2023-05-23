@@ -19,6 +19,9 @@ On doit retrouver ces infos dans deux fichiers nouvellement créés (laisse toi 
 
 C'est qu'un début, beaucoup de choses sont perfectible et à améliorer mais c'est une bonne base de départ !
 
+
+
+
 ENGLISH VERSION
 
 Do you want to create a new Symfony 6 project without having to configure everything? This bash script is made for you!
