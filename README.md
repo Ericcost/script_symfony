@@ -6,10 +6,12 @@ Pour cette première version :
 Place-toi à la racine du dossier dans lequel tu as récupéré le script. Autorise ton pc à lancer le script en tapant : ```chmod +x script.sh``` dans ton terminal puis tape ```./script.sh``` et laisse-toi guider ! 
 
 Il te faudra set up ta bdd mysql en ajoutant deux infos : 
+
 - DATABASE_URL
 - DATABASE_PASSWORD
 
 exemple :
+
 DATABASE_URL='mysql://username:password@localhost:3306/database_name' 
 DATABASE_PASSWORD='password'
 
