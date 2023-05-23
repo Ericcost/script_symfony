@@ -13,6 +13,7 @@ Il te faudra set up ta bdd mysql en ajoutant deux infos :
 exemple :
 
 DATABASE_URL='mysql://username:password@localhost:3306/database_name' 
+
 DATABASE_PASSWORD='password'
 
 On doit retrouver ces infos dans deux fichiers nouvellement créés (laisse toi guider on t'a dit ;) ) =>
